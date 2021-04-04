@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Olatano: '
+title: 'Olatano: La Rencontre'
 author: sal
 categories:
   - Lifestyle
