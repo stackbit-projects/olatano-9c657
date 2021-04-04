@@ -5,7 +5,7 @@ author: Yoen AGONDJO
 categories:
   - Histoire
 tags:
-  - France
+  - Gabon
 image: assets/images/2.jpg
 rating: 4.5
 ---
