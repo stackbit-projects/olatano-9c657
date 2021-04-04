@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Olatano: La Rencontre'
-author: sal
+author: Yoen AGONDJO
 categories:
   - Lifestyle
 tags:
