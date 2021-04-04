@@ -3,7 +3,7 @@ layout: post
 title: 'Olatano: La Rencontre'
 author: Yoen AGONDJO
 categories:
-  - Lifestyle
+  - Histoire
 tags:
   - France
 image: assets/images/2.jpg
