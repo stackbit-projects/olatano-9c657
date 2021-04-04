@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
+title: 'Olatano: '
 author: sal
-categories: [ Lifestyle ]
-tags: [ France ]
+categories:
+  - Lifestyle
+tags:
+  - France
 image: assets/images/2.jpg
 rating: 4.5
 ---
